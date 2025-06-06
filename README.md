@@ -64,7 +64,7 @@ Original DNA Sequence:      ATGCGTAC
 Reverse Complement:         GTACGCAT
 RNA Sequence:               AUGGCCAAUUG
 Protein Sequence:           MAIVMGR*KGAR*
-Molecular Weight of Protein: 10729.34 Da
+Molecular Weight of Protein: 5225.90 Da
 ```
 
 ---
